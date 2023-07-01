@@ -1,0 +1,5 @@
+require("sorell.set")
+require("sorell.lazy")
+require("sorell.remap")
+require("sorell.gui")
+require("sorell.neovide")
